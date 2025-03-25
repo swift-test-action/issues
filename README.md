@@ -1,2 +1,1 @@
-# issues
-DataDog Bugbounty POC by @nvk0x
+# DataDog Bugbounty POC by @nvk0x
