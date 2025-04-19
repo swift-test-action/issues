@@ -1,6 +1,6 @@
 # DataDog Swift Test Action
 
-This tool helps with automatic Swift test runs in CI pipelines.  
+This tool helps with automatic runs DataDog Swift-test-action in CI pipelines.  
 To get started:
 
 ```bash
